@@ -15,7 +15,7 @@ This workflow does not invent results, strengthen unsupported claims, remove nec
 
 ## 安装 / Installation
 
-本仓库为私有版本，需要具有仓库访问权限的 GitHub 账号。仓库名带 `-private`，但安装目录及调用名仍为 `be-human-and-less-defense`。
+本仓库公开可访问，无需申请仓库权限。仓库名沿用历史的 `-private` 后缀，但安装目录及调用名仍为 `be-human-and-less-defense`。
 
 ```bash
 git clone https://github.com/AISlowDown/be-human-and-less-defense-private.git \
@@ -24,7 +24,7 @@ git clone https://github.com/AISlowDown/be-human-and-less-defense-private.git \
 
 若目标目录已存在，请先对比或备份现有版本。也可把本仓库文件复制到支持 `SKILL.md` 的其他代理环境的技能目录。
 
-For a private repository, authenticate with an account that has access. Keep the installed directory name `be-human-and-less-defense` so sibling skills can resolve it.
+This repository is publicly accessible. The `-private` suffix is historical. Keep the installed directory name `be-human-and-less-defense` so sibling skills can resolve it.
 
 ## 示例 / Examples
 
