@@ -8,6 +8,13 @@ metadata:
 
 # Be Human and Less Defense
 
+## User manuscript style
+
+- For this user's newly authored or revised academic prose, do not use first-person plural `We/we`, `our`, `ours` or `ourselves`. Name the study, model, analysis or research object as the subject, or use appropriate passive voice. Vary the subject rather than repeatedly opening with `This study`.
+- In paper and thesis titles, headings, abstracts, body text, captions and supplementary prose, use statements or descriptive noun phrases instead of interrogative or rhetorical questions. Express a research question as a specific objective, unresolved relationship or evidence gap without presuming its answer. Descriptive titles need not assert a result.
+- Keep editing labels such as `疑问句转陈述句` out of the finished manuscript. Deliver the revised wording directly; put any requested explanation outside the manuscript.
+- Before delivery, check the authored prose for whole-word first-person forms and question-form sentences or headings, including `?` and `？`. Preserve verbatim quotations, reviewer comments, verified reference or official titles, code, mathematical notation and formal names such as `Weibull`. Internal planning questions and necessary questions to the user remain available. Apply these conventions over conflicting generic voice advice in imported references or templates.
+
 Combine academic language editing with a focused Less Defense pass. Make claims precise,
 supported, and direct. Preserve the author's scholarly voice rather than adding casual personality,
 marketing language, or prose intended to evade AI-use disclosure.
@@ -35,8 +42,9 @@ to the analytical purpose. Return the requested analysis or draft without an uns
 - Do not universalize limited evidence or make a verb stronger merely to sound confident.
 - Preserve paragraph structure and substantive coverage unless the user requests restructuring.
   Removing redundant language does not authorize deleting substantive information.
-- Passive voice, first-person plural `we`, and useful parallelism are legitimate academic choices.
-  Maintain technical terminology consistently rather than cycling synonyms for variety.
+- Passive voice and useful parallelism remain available. For this user, use an impersonal
+  subject instead of first-person plural. Maintain technical terminology consistently rather
+  than cycling synonyms for variety.
 
 ## Full-manuscript batching
 
